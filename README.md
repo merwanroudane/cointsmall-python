@@ -27,7 +27,7 @@ pip install cointsmall
 Or install from source:
 
 ```bash
-git clone https://github.com/yourusername/cointsmall-python.git
+git clone https://github.com/merwanroudane/cointsmall-python.git
 cd cointsmall-python
 pip install -e .
 ```
